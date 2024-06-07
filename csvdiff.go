@@ -14,7 +14,7 @@ func main() {
 	fmt.Println("╔═══════════════════════════════════════════════════════╗")
 	fmt.Println("║                       CSV-DIFF                        ║")
 	fmt.Println("╠═══════════════════════════════════════════════════════╣")
-    fmt.Println("║  Das Programm erwartet zwei csv Dateien als Eingabe.  ║")
+    	fmt.Println("║  Das Programm erwartet zwei csv Dateien als Eingabe.  ║")
 	fmt.Println("║ Die Differenz wird im selben Verzeichnis gespeichert. ║")
 	fmt.Println("╚═══════════════════════════════════════════════════════╝")
 	
